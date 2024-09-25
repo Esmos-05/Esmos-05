@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... making a software.
 - 📫 How to reach me ... Discord@Esmos#3482
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like trees.  
+- ⚡ Fun fact: ... I like trees. 
 
 <!---
 Esmos-05/Esmos-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
